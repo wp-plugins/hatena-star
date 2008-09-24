@@ -27,5 +27,5 @@ For details, see Hatena Star documents.
 
 == Screenshots ==
 
-See screenshot-1.png
+1. Configuration page
 
