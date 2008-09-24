@@ -4,7 +4,7 @@ Donate link: http://hidetake.org/pages/hatena-star-plugin
 Tags: admin, social, hatena
 Requires at least: 2.0
 Tested up to: 2.6.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 This plugin adds Hatena Star icons, so people will be able to recommend your blog.
 
