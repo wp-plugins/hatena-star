@@ -5,7 +5,7 @@
  Description: Adds Hatena Star icon.
  Author: Hidetake Iwata
  Author URI: http://hidetake.org/
- Version: 1.0
+ Version: 1.0.1
  License: GPLv2 (http://www.fsf.org/licensing/licenses/info/GPLv2.html)
  */
 
