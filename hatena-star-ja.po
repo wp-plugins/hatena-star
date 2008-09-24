@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hatena-star\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-14 17:08+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: int128 <int128@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: \\\\usagi\\remote\\hidetake.org\\public_html\\pages\\wp-content\\plugins\\hatena-star\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: hatena-star.php:19
+msgid "Hatena Star"
+msgstr ""
+
+#: hatena-star.php:31
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: hatena-star.php:43
+msgid "Options saved."
+msgstr ""
+
+#: hatena-star.php:58
+msgid "Hatena Star Settings"
+msgstr "はてなスター設定"
+
+#: hatena-star.php:62
+msgid "Authentication Token"
+msgstr "認証トークン"
+
+#: hatena-star.php:66
+msgid "Authentication token allows the association between your Hatena account and Hatena Stars. For details, see <a href=\"http://d.hatena.ne.jp/hatenastar/20070707/1184453490\">How to set up Hatena Star service into your blog</a>."
+msgstr "認証トークンを設定すると、はてなアカウントとこのブログを関連づけることができます。詳しくは、<a href=\"http://d.hatena.ne.jp/hatenastar/20070707/1184453490\">はてなスターをブログに設置するには</a>を参照してください。"
+
+#: hatena-star.php:71
+msgid "Tags"
+msgstr "タグ"
+
+#: hatena-star.php:73
+msgid "Tag Name"
+msgstr "タグ名"
+
+#: hatena-star.php:74
+msgid "Class Name"
+msgstr "クラス名"
+
+#: hatena-star.php:76
+msgid "Example, set Tag Name <span style=\"border:solid 1px silver;\">h2</span> and Class Name <span style=\"border:solid 1px silver;\">title</span>, star icons will be shown after &lt;h2 class=\"title\"&gt; elements."
+msgstr "（例）タグ名 <span style=\"border:solid 1px silver;\">h2</span>、クラス名 <span style=\"border:solid 1px silver;\">title</span> と設定すると、スターアイコンが &lt;h2 class=\"title\"&gt; の横に表示されます。"
+
+#: hatena-star.php:81
+msgid "Custom"
+msgstr "カスタム設定"
+
+#: hatena-star.php:89
+msgid "For details, see <a href=\"http://d.hatena.ne.jp/hatenastar/20070707/1184453490\">How to set up Hatena Star service into your blog</a>."
+msgstr "詳しくは、<a href=\"http://d.hatena.ne.jp/hatenastar/20070707/1184453490\">はてなスターをブログに設置するには</a>を参照してください。"
+
+#: hatena-star.php:94
+msgid "Update options &raquo;"
+msgstr ""
+
