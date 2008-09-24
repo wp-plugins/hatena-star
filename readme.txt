@@ -6,9 +6,11 @@ Requires at least: 2.0
 Tested up to: 2.6.1
 Stable tag: 1.0
 
-Adds Hatena Star icons. Hatena Star is a recommendation service for webpages, popular in Japan.
+This plugin adds Hatena Star icons, so people will be able to recommend your blog.
 
 == Description ==
+
+Hatena Star is a recommendation service for webpages, popular in Japan.
 
 For details, see Hatena Star documents.
 
